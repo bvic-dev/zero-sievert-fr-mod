@@ -137,7 +137,7 @@ Lazar,NPCs,48,Lazar
 Lazar's Guard,NPCs,48,Garde de Lazar
 Orel,NPCs,48,Orel
 Doctor,NPCs,48,Docteur
-Networker,NPCs,48,Tisseur
+Networker,NPCs,48,Courtier
 Barman,NPCs,48,Barman
 Big,NPCs,48,Big
 Blink,NPCs,48,Clignement
@@ -150,7 +150,7 @@ Joel Emerson,NPCs,48,Joel Emerson
 Max Parker,NPCs,48,Max Parker
 Daniel Baker,NPCs,48,Daniel Baker
 Crow,NPCs,48,Corneille
-The Networker,NPCs,48,Le Réseauteur
+The Networker,NPCs,48,Le Courtier
 Engineer Volkov,NPCs,48,Ingénieur Volkov
 Igor Kuzmin,NPCs,48,Igor Kouzmine
 Ghoul,NPCs,48,Goule
@@ -1431,7 +1431,7 @@ Reticle placement matters. Reduce glancing shots by having your reticle directly
 "Swapping to a pistol is faster than any other type of weapon swap, making it the perfect backup weapon in a pinch.",Loading screen tips,256,Passer au pistolet est le plus rapide : l’arme de secours idéale.
 "Be vigilant, some enemies are tougher than others, indicated by what armor they are wearing.",Loading screen tips,256,Restez vigilant : la robustesse se voit à l’armure portée.
 "Grenades are high value items, incredibly useful, but not to be wasted.",Loading screen tips,256,Les grenades sont précieuses et très utiles : ne les gâchez pas.
-Speak to the Networker in the bunker for additional quests and rewards each day.,Loading screen tips,256,Parlez au Réseauteur au bunker pour des quêtes et récompenses quotidiennes.
+Speak to the Networker in the bunker for additional quests and rewards each day.,Loading screen tips,256,Parlez au Courtier au bunker pour des quêtes et récompenses quotidiennes.
 "Knowing your effective range, is knowing your enemies'. Keep an eye on enemy loadouts and adapt your strategy.",Loading screen tips,256,"Connaître votre portée, c’est connaître celle de l’ennemi. Surveillez leur équipement et adaptez-vous."
 Grenades are a great way to make an enemy move or perish. Use them to push positions.,Loading screen tips,256,Les grenades font bouger ou tomber l’ennemi. Poussez des positions avec.
 "Holding RMB to aim your weapon will extend your view distance, with optical scopes increasing it considerably.",Loading screen tips,256,Maintenir Clic Droit pour viser augmente la portée de vue; les lunettes l’amplifient.
@@ -3057,7 +3057,7 @@ chest,Chest name,24,coffre
 Ammo box tier II,Chest name,24,Caisse de munitions II
 The school,Quest name,48,L’école
 Documents found in the school,Quest item,48,Documents trouvés à l’école
-Reset,UI button,16,Réinitialiser
+Reset,UI button,16,Réinit.
 Armor class,Repair kit stats,24,Classe d’armure
 Doctor Egorov,NPC name,32,Docteur Egorov
 Lead scientist,NPC name,32,Scientifique en chef
@@ -3279,13 +3279,13 @@ Go to the extraction point,Tutorial text,128,Va au point d’extraction
 Craft the corresponding kit to built the module,Base Module description,128,Fabrique le kit correspondant pour construire le module
 Buy,Trading menu,16,Acheter
 Sell,Trading menu,16,Vendre
-[In Progress],Quest UI,32,[In Progress]
-Accept [In Progress],Quest UI,32,Accepter [In Progress]
+[In Progress],Quest UI,32,[En cours]
+Accept [In Progress],Quest UI,32,Accepter [En cours]
 Quests,Menu button that goes to the Quests screen.,20,Quêtes
 Map,Menu button that goes to the Map screen.,20,Carte
-Stats,Menu button that goes to the Stats screen.,20,Statistiques
-Hunter Skills,Menu button that goes to the Hunter Skills screen.,20,Compétences de chasseur
-Gun Mastery,Menu button that goes to the Gun Mastery screen.,20,Maîtrise des armes
+Stats,Menu button that goes to the Stats screen.,20,Stats
+Hunter Skills,Menu button that goes to the Hunter Skills screen.,20,Chasseur
+Gun Mastery,Menu button that goes to the Gun Mastery screen.,20,Armes
 Base,Menu button that goes to the Base screen.,20,Base
 Relations,Menu button that goes to the Relations screen.,20,Relations
 Price,The price of an item,20,Prix
