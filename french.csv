@@ -878,8 +878,8 @@ Key to the Tech store in the mall,Keys,96,Clé du magasin Tech du centre commerc
 Oil factory personnel key card,Keys,96,Badge du personnel de l’usine de carburant
 Accept,User Interface,40,Accepter
 Accept [Active],User Interface,40,Accepter [Active]
-Accept [Completed],User Interface,40,Accepter [Completed]
-[Completed],User Interface,40,[Completed]
+Accept [Completed],User Interface,40,Accepter [Terminé]
+[Completed],User Interface,40,[Terminé]
 [Active],User Interface,40,[Active]
 Back,User Interface,40,Retour
 Gain reward,User Interface,40,Obtenir la récompense
