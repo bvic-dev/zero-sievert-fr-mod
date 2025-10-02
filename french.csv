@@ -903,7 +903,7 @@ continue,User Interface,40,continuer
 Controls,User Interface,40,Commandes
 data collection,User Interface,40,collecte de données
 deal: 0,User Interface,40,accord : 0
-delete,User Interface,40,supprimer
+delete,User Interface,40,Suppr.
 delete cloud saves,User Interface,40,supprimer les sauvegardes cloud
 device,User Interface,40,appareil
 Difficulty,User Interface,40,Difficulté
@@ -3126,7 +3126,7 @@ Always show the quickbar,Setting option,128,Toujours afficher la barre rapide
 h,PDA,64,h
 Post Processing Colour,Settings option,64,Couleur du post-traitement
 Toggle full screen overlay effects. (used for weather),Settings option tooltip,128,Activer/désactiver les effets en superposition plein écran (météo).
-Upload,Button to upload,12,Envoyer
+Upload,Button to upload,12,Publier
 Uploading Mod...,Status of Steam Workshop Mod upload,50,Téléversement du mod...
 Mod name:,"Display for the name of the mod ""Mod Name: Dave's Gun Mod"",""40",,Nom du mod :
 Stage,"We are going through the upload process so this will say ""stage 8 of 12"",""40",,Étape
