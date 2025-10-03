@@ -2384,7 +2384,7 @@ Type,Inventory info,12,Type
 Damage,Inventory info,12,Dégâts
 Weight,Inventory info,12,Poids
 Dur. Burn,Inventory info,12,Dur. brûl.
-Fire Rate,Inventory info,12,Cadence de tir
+Fire Rate,Inventory info,12,Cadence
 Penetration,Inventory info,12,Pénétration
 Melee,Inventory info,12,Corps à corps
 Recoil,Inventory info,12,Recul
