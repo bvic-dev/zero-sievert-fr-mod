@@ -1563,8 +1563,8 @@ Fast Hands,Skill Names,64,Doigts de fée
 Greatly increase reloading speed and slightly decrease recoil,Skill Descriptions,256,Augmente fortement la vitesse de rechargement et réduit légèrement le recul
 -5% -1% recoil per level.\n+20% +2% reloading speed per level,Skill Value Descriptions,128,-5 % -1 % de recul par niveau.\n+20 % +2 % de vitesse de rechargement par niveau
 Sniper,Skill Names,64,Sniper
-Greatly increase ergonomic while aiming. Greatly increase damage while aiming,Skill Descriptions,256,Augmente fortement l’ergonomie en visant. Augmente fortement les dégâts en visant
-+100% +10% ergonomic while aiming per level. +50% +8% damage while aiming per level,Skill Value Descriptions,128,+100 % +10 % ergonomie en visant par niveau. +50 % +8 % dégâts en visant par niveau
+Greatly increase ergonomic while aiming. Greatly increase damage while aiming,Skill Descriptions,256,Augmente fortement la maniabilité en visant. Augmente fortement les dégâts en visant
++100% +10% ergonomic while aiming per level. +50% +8% damage while aiming per level,Skill Value Descriptions,128,+100 % +10 % maniabilité en visant par niveau. +50 % +8 % dégâts en visant par niveau
 Charisma,Skill Names,64,Charisme
 Better deals with vendors,Skill Descriptions,256,Meilleures offres chez les marchands
 +1% selling price per level. +2% traders money per level.,Skill Value Descriptions,128,+1 % prix de vente par niveau. +2 % fonds des marchands par niveau.
@@ -2384,13 +2384,13 @@ Type,Inventory info,12,Type
 Damage,Inventory info,12,Dégâts
 Weight,Inventory info,12,Poids
 Dur. Burn,Inventory info,12,Dur. brûl.
-Fire Rate,Inventory info,12,Cadence
+Fire Rate,Inventory info,12,Cadence de tir
 Penetration,Inventory info,12,Pénétration
 Melee,Inventory info,12,Corps à corps
 Recoil,Inventory info,12,Recul
 Class,Inventory info,32,Classe
 Reload Speed,Inventory info,24,Vitesse de recharg.
-Ergonomics,Inventory info,32,Ergonomie
+Ergonomics,Inventory info,32,Maniabilité
 Anomaly,Misc,32,Anomalie
 sell multiplier,Difficulty modifier names,72,Multiplicateur de vente
 items amount,Difficulty modifier names,72,Quantité d’objets
@@ -2675,7 +2675,7 @@ Provides a 15% damage boost to weapons while firing continuously for 0.5 seconds
 Flank Master,Gun Skill Name,64,Maître du contournement
 "If you are undetected, or not in the viewing cone of an enemy, you will receive a 15% damage boost.",Gun Skill Description,512,"Si vous êtes non détecté ou hors du cône de vision d’un ennemi, vous gagnez +15 % de dégâts."
 Steady Sniper,Gun Skill Name,64,Sniper stable
-"After hitting an enemy while scoped, the optic cross-hair will have double the Ergonomics statistic for 2 seconds.",Gun Skill Description,512,"Après avoir touché un ennemi en visant, le réticule gagne le double d’Ergonomie pendant 2 s."
+"After hitting an enemy while scoped, the optic cross-hair will have double the Ergonomics statistic for 2 seconds.",Gun Skill Description,512,"Après avoir touché un ennemi en visant, le réticule gagne le double de Maniabilité pendant 2 s."
 Reload Artist: Double barrel,Gun Skill Name,64,Artiste du rechargement : Djuxtaposée
 Allows double-barreled shotguns to be reloaded in one go by inserting both shells at once.,Gun Skill Description,512,Permet de recharger d’un coup les fusils à double canon en insérant les deux cartouches simultanément.
 Perk Points,User Interface,24,Points d’atout
