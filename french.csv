@@ -1402,8 +1402,8 @@ Rad Regen/s,Injector stats,16,Régén. rad./s
 Rad Defence,Injector stats,16,Prot. rad.
 Hunger/s,Injector stats,16,Faim/s
 Thirst/s,Injector stats,16,Soif/s
-Min Dur.,Item Stats,16,Durée min.
-Max Dur.,Item Stats,16,Durée max.
+Min Dur.,Item Stats,16,Durabilité min.
+Max Dur.,Item Stats,16,Durabilité max.
 Cond. Gain,Item Stats,16,Gain d’état
 Hold ctrl while dragging an item to divide its quantity,Loading screen tips,256,Maintenez Ctrl en faisant glisser un objet pour diviser sa quantité
 Scroll mouse wheel to select a different interaction option,Loading screen tips,256,Faites défiler la molette pour choisir une autre interaction
