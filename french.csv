@@ -3349,3 +3349,38 @@ Keys,Stash page name,32,Clés
 Grenades,Stash page name,32,Grenades
 Valuables,Stash page name,32,Objets de valeur
 Injectors,Stash page name,32,Injecteurs
+"Increase the range of your grenades by 30%, immunity from flashbangs and take no damage from your own grenade",Hunter Skill Description,256,"Augmente la portée de vos grenades de 30 %, immunité aux flashbangs et aucun dégât provenant de vos propres grenades"
+Explosion Ringing,Audio Setting,32,Sifflement après explosion
+Adjust the volume of the tinnitus ringing after explosions,Audio Setting Description,128,Régler le volume du sifflement d’acouphènes après les explosions
+Rotfang,Enemy Name,32,Rotfang
+Rotking,Enemy Name,32,Rotking
+Rotking Armor,Item Name,32,Armure du Rotking
+Restore HP while standing on chemical anomalies,Item description,256,Restaure des PV en restant sur des anomalies chimiques
+Rotking BBsH,Item name,32,Rotking BBsH
+Chemical Grenade,Item name,32,Grenade chimique
+Chemical anomaly document,Item name,64,Document : anomalie chimique
+"Hey Hunter!\nRemember when you went into the sewers? The Doctor told me that some scientists have reported strange activity down there.\nThey suspect it's coming from the area infested with Rotfang. Go down there and see what you can find, you probably have to look for some machinery.\nOh, one last thing, Hunter! All the reputation you earn from this mission will go to the scientists' faction.",Quest description,,"Hé, Chasseur !\nTu te souviens quand tu es allé dans les égouts ? Le Docteur m’a dit que des scientifiques y ont signalé une activité étrange.\nIls pensent que ça vient de la zone infestée par Rotfang. Descends là-bas et vois ce que tu peux trouver, tu devras sûrement chercher des machines.\nOh, une dernière chose, Chasseur ! Toute la réputation que tu gagneras avec cette mission ira à la faction des scientifiques."
+Chemical activity,Quest name,32,Activité chimique
+Sewer shortcut key,Item name,32,Clé du raccourci des égouts
+Key used to open the shortcut in the sewer,Item Description,128,Clé permettant d’ouvrir le raccourci dans les égouts
+Horizon suit,Item name,64,Combinaison Horizon
+15% chance to deflect incoming bullets.,Item Description,256,15 % de chances de dévier les balles reçues.
+Commander Voss suit,Item name,64,Tenue du commandant Voss
+15% chance to deflect incoming bullets.\nDeflected bullets heals for 25% of deflected damage.,Item Description,256,15 % de chances de dévier les balles reçues.\nLes balles déviées vous soignent de 25 % des dégâts déviés.
+Commander Voss,NPC name,32,Commandant Voss
+Commander Voss EC 74,Item Name,32,Commandant Voss EC 74
+Any news?,Dialogue,32,Des nouvelles ?
+"Yeah, wordï¿½s going around. A new group showed up in the industrial area. They call themselves the Horizon.\nNot army, not bandits. Corporate types with shiny gear and bad intentions.\nThey've locked down the docks and anyone who dares get too close just... vanishes without a trace.",Dialogue,,"Ouais, les rumeurs vont bon train. Un nouveau groupe est apparu dans la zone industrielle. Ils s’appellent l’Horizon.\nPas l’armée, pas des bandits. Des types de la corpo, avec du matos clinquant et de mauvaises intentions.\nIls ont bouclé les docks, et quiconque ose s’approcher de trop près… disparaît sans laisser de trace."
+Improving the base,Quest name,32,Améliorer la base
+"You can upgrade your base by installing new modules.\nOpen your PDA, go to the Base Building page, click on an empty slot,\nchoose a module and click the Install button,\nthen craft its Building Kit at the crafting bench,\nright-click the kit in your inventory and use it to place the module in your base.",Quest description,,"Vous pouvez améliorer votre base en installant de nouveaux modules.\nOuvrez votre PDA, allez à la page Construction de base, cliquez sur un emplacement libre,\nchoisissez un module et cliquez sur le bouton Installer,\npuis fabriquez son kit de construction à l’établi,\nfaites un clic droit sur le kit dans votre inventaire et utilisez‑le pour placer le module dans votre base."
+7.62x25mm Chemical,Item name,32,"7,62x25mm chimique"
+5.45x39mm BP,Item name,32,"5,45x39mm BP"
+5.45x39mm Horizon,Item name,32,5.45x39mm Horizon
+Build a base Module,Quest objective,32,Construire un module de base
+Point Blank,Perk Name,32,À bout portant
+Full hits have an additional 20% chance to penetrate armor.,Perk description,256,Les tirs directs ont 20 % de chance supplémentaires de perforer l’armure.
+Rolling Start,Perk Name,32,Démarrage lancé
+"After standing still for 1 second, gain +30% movement speed for 2 seconds",Perk description,256,"Après 1s immobile, +30% vitesse de déplacement pendant 2s"
+Sticky Fingers,Perk Name,32,Doigts collants
+You find 5 times the amount of Roubles,Perk description,32,Vous trouvez 5x plus de roubles
+Horizon,Faction Name,32,Horizon
