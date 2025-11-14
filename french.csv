@@ -3307,3 +3307,45 @@ Hit%,Shooting range displayed data,16,Touché %
 Dmg:,Shooting range displayed data,16,Dégâts :
 Pen%,Shooting range displayed data,16,Pénétration %
 Select Reward,Telling player they need to select a reward to continue.,40,Choisir la récompense
+Opening sound of the PDA,Settings option - Sound played when opening the personal device,32,Son d’ouverture du PDA
+General PDA sounds,Settings option,32,Sons généraux du PDA
+Single use storage kit,Item name,32,Kit de stockage à usage unique
+Paiga-12,Weapon name,32,Paiga-12
+Paiga-12 5 round magazine,item name,32,Chargeur 5 coups Paiga-12
+Paiga-12 10 round magazine,item name,32,Chargeur 10 coups Paiga-12
+Paiga-12 20 round magazine,item name,32,Chargeur 20 coups Paiga-12
+Paiga-12 polymer handguard,item name,32,Garde-main polymère Paiga-12
+Paiga-12 short handguard,item name,32,Garde-main court Paiga-12
+Paiga-12 tactical handguard,item name,32,Garde-main tactique Paiga-12
+Paiga-12 long handguard,item name,32,Garde-main long Paiga-12
+12x70mm AP BUCKSHOT,Ammunition name,32,Chevrotine AP 12x70 mm
+OUG,Weapon name,32,OUG
+OUG 9x19mm,Weapon name,32,OUG 9x19 mm
+OUG 30 round magazine,Item name,32,Chargeur 30 coups OUG
+OUG 30 round desert magazine,Item name,32,Chargeur OUG 30 cps désert
+OUG 60 round magazine,Item name,32,Chargeur OUG 60 cps
+OUG foregrip,Item name,32,Poignée avant OUG
+OUG green stock,Item name,32,Crosse OUG verte
+OUG desert stock,Item name,32,Crosse OUG désert
+OUG black stock,Item name,32,Crosse noire OUG
+OUG default handguard,Item name,32,Garde-main standard OUG
+OUG handguard,Item name,32,Garde-main OUG
+OUG scope,Item name,32,Lunette OUG
+NP9 9x19mm,Weapon name,32,NP9 9x19 mm
+NP9 .45acp,Weapon name,32,NP9 .45acp
+NP9 20 round magazine,Item name,32,Chargeur 20 coups NP9
+NP9 30 round magazine,Item name,32,Chargeur 30 coups NP9
+NP9 40 round magazine,Item name,32,Chargeur 40 coups NP9
+Heal prompt,Setting,64,Invite à se soigner
+Prompt yes/no before healing,Setting description,64,Confirmer oui/non avant de soigner
+Medications,Stash page name,32,Médicaments
+Ammo,Stash page name,32,Munitions
+Junk,Stash page name,32,Bric-à-brac
+Food,Stash page name,32,Nourriture
+Scrap,Stash page name,32,Ferraille
+Armors,Stash page name,32,Armures
+Weapons,Stash page name,32,Armes
+Keys,Stash page name,32,Clés
+Grenades,Stash page name,32,Grenades
+Valuables,Stash page name,32,Objets de valeur
+Injectors,Stash page name,32,Injecteurs
