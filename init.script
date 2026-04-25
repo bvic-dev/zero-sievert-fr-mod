@@ -1,5 +1,5 @@
--- Déclare la langue FR
-LanguageCreate("french","Français","french.csv","silver.ttf")
+-- Déclare la langue FR en pointant vers le CSV vanilla officiel
+LanguageCreate("french","Français","../../ZS_vanilla/languages/french/french.csv","../../ZS_vanilla/languages/french/silver.ttf")
 
 -- Ajuste la taille des polices (à adapter selon lisibilité)
 -- LanguageSetFontSizes("french",[13,15,18,27,36,68])
